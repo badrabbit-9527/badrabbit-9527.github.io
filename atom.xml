@@ -6,15 +6,32 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-14T08:36:00.641Z</updated>
+  <updated>2020-09-15T02:49:54.746Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>BadRabbit</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用HEXO搭建个人博客</title>
+    <link href="http://example.com/2020/09/15/%E4%BD%BF%E7%94%A8HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2020/09/15/%E4%BD%BF%E7%94%A8HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-09-14T17:24:03.000Z</published>
+    <updated>2020-09-15T02:49:54.746Z</updated>
+    
+    
+    
+    
+    <category term="笔记" scheme="http://example.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="HEXO" scheme="http://example.com/tags/HEXO/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
